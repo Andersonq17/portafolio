@@ -100,7 +100,7 @@ body {
   margin: 0;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.5; }
-  body#bg-img {
+  body #bg-img {
     background: url(../img/words.jpg);
     background-attachment: fixed;
     background-size: cover; }
